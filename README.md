@@ -2,3 +2,4 @@
 StrukDat latihan 1
 percobaan 1
 cobacoba
+woy
